@@ -1,0 +1,15 @@
+{
+  "name": "finddit",
+  "version": "1.0.0",
+  "description": "Reddit search app",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Ayan Banerjee",
+  "license": "ISC",
+  "homepage": "https://ayanb12.github.io/Finddit",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
